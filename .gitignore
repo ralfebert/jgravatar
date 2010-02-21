@@ -1,6 +1,2 @@
-log
-tmp
-db/*.sqlite3
-nbproject/private
 bin
 .DS_Store
